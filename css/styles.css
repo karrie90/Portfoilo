@@ -72,23 +72,23 @@ hr {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    border: 1px solid #2aa9b7;
+    border: 1px solid #b8c5c6;
 }
 
 .navbar-default .navbar-nav .nav-link {
-    color: #2aa9b7;
+    color: #b8c5c6;
 }
 
 .navbar-default .navbar-nav .nav-link:hover {
-    color: #2aa9b7;
+    color: #b8c5c6;
 }
 
 .navbar-default .navbar-nav >.active > a,
 .navbar-default .navbar-nav >.active > a:focus,
 .navbar-default .navbar-nav >.active > a:hover {
-    color: #bb5ff9;
+    color: #227a7a;
     background: transparent;
-    border-bottom: 1px solid #bb5ff9;
+    border-bottom: 1px solid #227a7a;
 }
 
 
@@ -96,7 +96,7 @@ hr {
             Home
 -------------------------------- */
 #home {
-    background: url(../img/logo/port.jpg) no-repeat center center fixed;
+    background: url(../img/logo/code.jpg) no-repeat center center fixed;
     background-size: cover;
     position: relative;
     display: table;
